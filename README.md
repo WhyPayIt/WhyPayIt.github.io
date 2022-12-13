@@ -1,1 +1,1 @@
-# whypayit.github.io
+whypayit.github.io
